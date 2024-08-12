@@ -1,0 +1,1 @@
+ini adalah project latihan pertemuan dan tugas 4 Bandung AI Camp
